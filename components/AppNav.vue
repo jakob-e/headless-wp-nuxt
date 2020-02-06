@@ -25,7 +25,7 @@ export default {
 
 <style lang="scss" scoped>
 .nav {
-  background: #f0f;
+  background: #000;
   color: #fff;
   padding: 1em 100px;
 
